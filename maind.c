@@ -21,6 +21,7 @@ int main() {
    printf("\nVector ingresado:\n");
    for(i = 0; i < n; i++) {
        printf("%d ", A[i]);
+       //fin
    }
    return 0;
 }
